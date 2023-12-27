@@ -5,6 +5,9 @@ contributor:
     agent_name: Rhodes, H. J.
     gutenberg_agent_id: '56656'
     url: http://www.gutenberg.org/2009/agents/56656
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Walton, O. F., Mrs.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2468
     wikipedia: https://en.wikipedia.org/wiki/Amy_Catherine_Walton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72363#Launch-the-lifeboat
 gutenberg_issued: '2023-12-09'
 gutenberg_type: Text
 identifiers:
